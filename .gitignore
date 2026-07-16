@@ -1,0 +1,16 @@
+# Ignore python cache files
+__pycache__/
+*.pyc
+
+# Ignore large data files (CSV, XLSX, etc.)
+*.csv
+*.xlsx
+*.zip
+
+# Ignore heavy saved models (optional, but recommended if >100MB)
+# *.pkl
+
+# Ignore virtual environments
+venv/
+.venv/
+.streamlit/config.toml
