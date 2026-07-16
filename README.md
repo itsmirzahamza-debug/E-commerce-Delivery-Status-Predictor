@@ -6,7 +6,9 @@ An interactive machine learning application that predicts whether an e-commerce 
 - **Interactive Web App:** A clean Streamlit frontend where users can enter real-time order details to get predictions with model confidence.
 
 ## 🛠️ Installation & Setup
-
+## 🔗 Live Demo
+🚀 **Try the live application here:
+http://localhost:8501/
 1. **Clone this repository:**
    (https://github.com/itsmirzahamza-debug/E-commerce-Delivery-Status-Predictor/tree/main).git)
    cd E-commerce-Delivery-Status-Predictor/
